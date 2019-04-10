@@ -1,0 +1,8 @@
+educator-logs/
+target/
+.settings/
+.idea/
+.project
+.factorypath
+.classpath
+educator.iml
